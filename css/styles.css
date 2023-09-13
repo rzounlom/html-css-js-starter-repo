@@ -1,0 +1,11 @@
+/* Reset default browser margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* set body background to blue to make sure the css file is linked ot index.html */
+body {
+  background-color: blue;
+}
